@@ -18,7 +18,7 @@ function onChange() {
         + possibility
         + `<br><b>${generalSpend}%</b> of a day on average`
         + `<br><b>${wakingSpend}%</b> of a waking day on average<sup>*</sup>`
-        + `<br><br></br><sup>* assuming ${HOURS_OF_SLEEP} hour of sleep a night</sup>`
+        + `<br><br></br><sup>* assuming ${HOURS_OF_SLEEP} hours of sleep a night</sup>`
 }
 
 hours.addEventListener("input", onChange);
