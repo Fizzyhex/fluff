@@ -11,7 +11,7 @@ function onChange() {
     const userHours = hours.value;
     const generalSpend = Math.round((userHours / HOURS_PER_2_WEEKS) * 100);
     const wakingSpend = Math.round((userHours / WAKING_HOURS_PER_2_WEEKS) * 100);
-    const possibility = generalSpend > 100 ? " not possible, but:" : "";
+    const possibility = generalSpend < 0 ? " a negative number, but:" : generalSpend > 100 ? " not possible, but:" : "";
 
     output.innerHTML =
         `that is...`
