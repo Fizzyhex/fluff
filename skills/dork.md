@@ -53,32 +53,3 @@ Examples below demonstrate formatting only; the names and URLs are fictional and
 1. [Mira's weather station](https://example.ts.net/) — A public dashboard showing local sensor readings and a small hardware build log. Found via Google.
 2. [Night Shift Media Server](https://example.duckdns.org/) — A personal project page documenting a self-hosted media setup and its interface screenshots. Found via Kagi.
 3. [Tiny Lab Notes](https://example.slip.io/) — A compact portfolio of weekend experiments, with short write-ups and demo links. Found via the available search tool.
-
----
-
-For Google and Kagi - only these links will work:
-
-https://www.google.com/search?q=site%3Ats.net%20%22portfolio%22
-https://kagi.com/search?q=site%3Ats.net%20%22portfolio%22
-https://www.google.com/search?q=site%3Ats.net%20%22dashboard%22
-https://kagi.com/search?q=site%3Ats.net%20%22dashboard%22
-https://www.google.com/search?q=site%3Ats.net%20%22index%20of%22
-https://kagi.com/search?q=site%3Ats.net%20%22index%20of%22
-https://www.google.com/search?q=site%3Ats.net%20%22homelab%22
-https://kagi.com/search?q=site%3Ats.net%20%22homelab%22
-https://www.google.com/search?q=site%3Aduckdns.org%20%22portfolio%22
-https://kagi.com/search?q=site%3Aduckdns.org%20%22portfolio%22
-https://www.google.com/search?q=site%3Aduckdns.org%20%22dashboard%22
-https://kagi.com/search?q=site%3Aduckdns.org%20%22dashboard%22
-https://www.google.com/search?q=site%3Aduckdns.org%20%22index%20of%22
-https://kagi.com/search?q=site%3Aduckdns.org%20%22index%20of%22
-https://www.google.com/search?q=site%3Aduckdns.org%20%22homelab%22
-https://kagi.com/search?q=site%3Aduckdns.org%20%22homelab%22
-https://www.google.com/search?q=site%3Aslip.io%20%22portfolio%22
-https://kagi.com/search?q=site%3Aslip.io%20%22portfolio%22
-https://www.google.com/search?q=site%3Aslip.io%20%22dashboard%22
-https://kagi.com/search?q=site%3Aslip.io%20%22dashboard%22
-https://www.google.com/search?q=site%3Aslip.io%20%22index%20of%22
-https://kagi.com/search?q=site%3Aslip.io%20%22index%20of%22
-https://www.google.com/search?q=site%3Aslip.io%20%22homelab%22
-https://kagi.com/search?q=site%3Aslip.io%20%22homelab%22
