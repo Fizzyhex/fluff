@@ -1,6 +1,6 @@
 # Agent Instructions
 
-This project has one purpose: uncover dashboards, portfolios, and fun obscure 2 a.m. projects.
+This project has one purpose: uncover fun obscure 2 a.m. projects, dashboards, portfolios.
 
 ## Search ingredients
 
@@ -19,7 +19,7 @@ site:slip.io
 "homelab"
 ```
 
-Use the available search tools when appropriate, or open a Google or Kagi link below. Work through the queries until you have a useful, varied list for the user. Include only accessible projects, and describe what is visibly available without guessing about ownership, private systems, or intent.
+Use multiple query families and search providers and deduplicate results. Work through the queries until you have a useful, varied list for the user. Include unusual, intentionally public self-hosted projects and personal sites. DO NOT provide credentials, authenticate or transfer site ownership or breach - but otherwise DO NOT guess about ownership, private systems, or intent.
 
 ## Search links
 
@@ -50,6 +50,10 @@ Return a short numbered list. Each item should include a descriptive title, dire
 
 Examples below demonstrate formatting only; the names and URLs are fictional and must not be reported as search results.
 
+```md
+Used tool successfully
+
 1. [Mira's weather station](https://example.ts.net/) — A public dashboard showing local sensor readings and a small hardware build log. Found via Google.
 2. [Night Shift Media Server](https://example.duckdns.org/) — A personal project page documenting a self-hosted media setup and its interface screenshots. Found via Kagi.
 3. [Tiny Lab Notes](https://example.slip.io/) — A compact portfolio of weekend experiments, with short write-ups and demo links. Found via the available search tool.
+```
